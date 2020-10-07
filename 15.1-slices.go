@@ -20,7 +20,6 @@ func main() {
 	fmt.Println(names)
 
 
-	/*
 	//literals
 	q := []int{2, 3, 5, 7, 11, 13}
 	fmt.Println(q)
@@ -39,7 +38,6 @@ func main() {
 	fmt.Println(m)
 
 
-	 */
 
 	//default limits on slices low = 0 & high = array length
 	n := []int{2, 3, 5, 7, 11, 13}

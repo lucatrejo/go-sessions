@@ -35,7 +35,6 @@ func main() {
 	fmt.Println(m)
 
 	//get element
-	/*
 	el, ok := m["MercadoLibre"]
 	fmt.Println(el, "is_present: ", ok)
 
@@ -43,7 +42,13 @@ func main() {
 	delete(m, "MercadoLibre")
 	fmt.Println(m)
 
-	 */
+	//Iterate
+	for key, element := range m {
+		if key == "Google" {
+			element.Lat = 0000
+		}
+		fmt.Println("Key:", key, "=>", "Element:", element)
+	}
 
-	//Iterarlo?
+	fmt.Println(m)
 }

@@ -33,54 +33,54 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Go" />
   </component>
-  <component name="RunManager" selected="Go Build.go build 18-clousures.go">
-    <configuration name="go build 15.1-slices.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 21-Stringers.go">
+    <configuration name="go build 19-methods.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-training" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/15.1-slices.go" />
+      <filePath value="$PROJECT_DIR$/19-methods.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 15.2-slices.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 20-interfaces.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-training" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/15.2-slices.go" />
+      <filePath value="$PROJECT_DIR$/20-interfaces.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 16-maps.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 20.1-interfaces.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-training" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/16-maps.go" />
+      <filePath value="$PROJECT_DIR$/20.1-interfaces.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 17-function-params.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 20.2-interfaces.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-training" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/17-function-params.go" />
+      <filePath value="$PROJECT_DIR$/20.2-interfaces.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 18-clousures.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 21-Stringers.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-training" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/18-clousures.go" />
+      <filePath value="$PROJECT_DIR$/21-Stringers.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 18-clousures.go" />
-        <item itemvalue="Go Build.go build 17-function-params.go" />
-        <item itemvalue="Go Build.go build 16-maps.go" />
-        <item itemvalue="Go Build.go build 15.2-slices.go" />
-        <item itemvalue="Go Build.go build 15.1-slices.go" />
+        <item itemvalue="Go Build.go build 21-Stringers.go" />
+        <item itemvalue="Go Build.go build 20.2-interfaces.go" />
+        <item itemvalue="Go Build.go build 20.1-interfaces.go" />
+        <item itemvalue="Go Build.go build 20-interfaces.go" />
+        <item itemvalue="Go Build.go build 19-methods.go" />
       </list>
     </recent_temporary>
   </component>
@@ -111,22 +111,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="398" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1601182033079" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1602085711408">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1602098543210">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602085711408" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1602085711407">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602098543210" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1602098543209">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602085711407" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1602085711407">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602098543209" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1602098543208">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602085711407" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1602085711408">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602098543208" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1602098543209">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602085711408" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602098543209" />
     <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1602012612679">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -159,9 +159,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="412" y="39" width="615" height="822" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1602080937624" />
-    <state x="383" y="189" width="670" height="676" key="search.everywhere.popup" timestamp="1601219818377">
+    <state x="383" y="189" width="670" height="676" key="search.everywhere.popup" timestamp="1602092678956">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="383" y="189" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1601219818376" />
+    <state x="383" y="189" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1602092678956" />
   </component>
 </project>

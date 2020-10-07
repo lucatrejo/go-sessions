@@ -5,7 +5,6 @@ import (
 )
 
 func main() {
-	/*
 	//slice of slice
 	sliceParent := [][]int{
 		[]int{1, 1, 1, 1},
@@ -14,10 +13,6 @@ func main() {
 	}
 	printSlices("Slice of Slice: ", sliceParent)
 
-	*/
-
-
-	/*
 	a := make([]int, 3, 6) //type, length, capacity
 	printSliceInt("slice with make: ", a)
 
@@ -35,7 +30,6 @@ func main() {
 	printSliceInt("slice", b) //the cap grows as needed
 
 
-	 */
 	var pow = []int{1, 2, 4, 8, 16, 32, 64, 128}
 	//omit the index or value with _ or remove the second parameter
 	for i, v := range pow { //i: index - v: copy of element in that index

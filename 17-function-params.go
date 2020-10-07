@@ -13,6 +13,6 @@ func main() {
 		return second + " " + first + ";"
 	}
 
-	//fmt.Println(secondFunc("World", "Hello"))
+	fmt.Println(secondFunc("World", "Hello"))
 	fmt.Println(firstFunc(secondFunc))
 }
