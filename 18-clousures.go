@@ -19,4 +19,8 @@ func main() {
 	fmt.Println(add(1))
 	fmt.Println(add(2))
 	fmt.Println(add(10))
+
+	add = adder()
+
+	fmt.Println(add(0))
 }
