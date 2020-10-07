@@ -23,7 +23,7 @@ func main() {
 	fmt.Println("Float from Int: ", Float)
 
 	//Inference
-	var i int
+	var i complex64
 	j := i
 	fmt.Printf("J is type: %T\n", j)
 

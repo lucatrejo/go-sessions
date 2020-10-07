@@ -67,6 +67,11 @@ func main() {
 	s3 = s3[2:]
 	printSlice(s3)
 
+	// Null slice
+	var s4 []int
+	fmt.Print("null slice: ")
+	printSlice(s4)
+
 
 }
 
